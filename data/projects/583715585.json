@@ -1,10 +1,5 @@
 {
-    "topics": [
-        "Next.js",
-        "React",
-        "SASS",
-        "Poke API"
-    ],
-    "category": ["Website"],
-    "image": "https://raw.githubusercontent.com/ervin-sungkono/web-assets/master/images/Next-Pokedex.png"
+  "topics": ["Next.js", "React", "SASS", "Poke API"],
+  "category": ["Website"],
+  "image": "https://raw.githubusercontent.com/dhruvinhp/web-assets/main/images/Next-Pokedex.png"
 }

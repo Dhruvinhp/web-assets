@@ -1,9 +1,5 @@
 {
-    "topics": [
-        "HTML",
-        "CSS",
-        "JS"
-    ],
-    "category": ["Website"],
-    "image": "https://raw.githubusercontent.com/ervin-sungkono/web-assets/master/images/CSS-Box-Shadow-Generator.png"
+  "topics": ["HTML", "CSS", "JS"],
+  "category": ["Website"],
+  "image": "https://raw.githubusercontent.com/dhruvinhp/web-assets/main/images/CSS-Box-Shadow-Generator.png"
 }

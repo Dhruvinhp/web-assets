@@ -1,4 +1,5 @@
 {
+  "name": "quiz-api",
   "topics": ["HTML", "CSS", "JS"],
   "category": ["Personal"],
   "image": "https://raw.githubusercontent.com/dhruvinhp/web-assets/main/images/Clock-App.png"

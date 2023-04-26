@@ -1,4 +1,5 @@
 {
+  "name": "react-task-tracker",
   "topics": ["HTML", "CSS", "JS", "Drag and Drop"],
   "category": ["Personal"],
   "image": "https://raw.githubusercontent.com/dhruvinhp/web-assets/main/images/DnD-Multiplication-Game.png"

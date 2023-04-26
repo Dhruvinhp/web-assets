@@ -1,4 +1,5 @@
 {
+  "name": "weather",
   "topics": ["Laravel", "PHP", "Bootstrap", "DomPDF", "CKEditor"],
   "category": ["Personal"],
   "image": "https://raw.githubusercontent.com/dhruvinhp/web-assets/main/images/Easy-Trip.png"

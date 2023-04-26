@@ -1,8 +1,3 @@
 {
-    "categories": [
-        "All",
-        "Website",
-        "Mobile App",
-        "Others"
-    ]
+  "categories": ["All", "Personal", "Client", "Others"]
 }

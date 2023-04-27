@@ -1,19 +1,24 @@
 {
-    "icons_url":[
-        "HTML",
-        "CSS",
-        "JS",
-        "Bootstrap",
-        "Tailwind",
-        "SASS",
-        "React",
-        "NextJS",
-        "NodeJS",
-        "Java",
-        "Android Studio",
-        "MySQL",
-        "Laravel",
-        "Git",
-        "Figma"
-    ]
+  "icons_url": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "TypeScript",
+    "ReactJS",
+    "NextJS",
+    "NodeJS",
+    "Redux",
+    "Material UI",
+    "Python",
+    "Django",
+    "Flask",
+    "SQL",
+    "PostgreSQL",
+    "Firebase",
+    "Bootstrap",
+    "Tailwind",
+    "MySQL",
+    "Git",
+    "Figma"
+  ]
 }

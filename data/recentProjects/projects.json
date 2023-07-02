@@ -49,26 +49,36 @@
   },
   {
     "id": 5,
+    "name": "The Diamond Port - Whitelable",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/dhruvinhp/web-assets/main/images/whitelable.png",
+    "topics": ["Reactjs", "Axios", "MUI"],
+    "homepage": "https://thediamondp6.sg-host.com/14726697641660979893",
+    "html_url": "",
+    "category": ["Client"]
+  },
+  {
+    "id": 6,
     "name": "One Charge",
     "description": "Onecharge is a Complete EV charging infrastructure solution from Greenpill Group. Website was designed in reactjs to share details about the best electric vehicle (EV) charging experience.",
-    "image": "https://raw.githubusercontent.com/dhruvinhp/web-assets/main/images/no-image.png",
+    "image": "https://raw.githubusercontent.com/dhruvinhp/web-assets/main/images/oneCharge.png",
     "topics": ["Reactjs", "MUI"],
     "homepage": "",
     "html_url": "",
     "category": ["Client"]
   },
   {
-    "id": 6,
+    "id": 7,
     "name": "Garage Mania (Car Part Selling Web Application)",
     "description": "Developed a fully functional webapp, where user can buy and sell car parts on this platform. Admin can manage Buyer and seller accounts and each seller have control over listing of specific product lines along with images, description, pricing etc. Platform enable buyer to connect with sellers through various mechanisms including email.",
-    "image": "https://raw.githubusercontent.com/dhruvinhp/web-assets/main/images/no-image.png",
+    "image": "https://raw.githubusercontent.com/dhruvinhp/web-assets/main/images/garageMania.png",
     "topics": ["Python", "Django", "HTML", "CSS"],
     "homepage": "",
     "html_url": "",
     "category": ["Personal"]
   },
   {
-    "id": 7,
+    "id": 8,
     "name": "GST Data Reconciliation",
     "description": "Instrumental role in developing the Financial Utility with Python that processes a) GST data from Indian Govt Tax portal sites and b) Accounting Invoice data from popular accounting software Tally. The objective is to automate the reconciliation processes and highlight the anomalies between the data files.",
     "image": "https://raw.githubusercontent.com/dhruvinhp/web-assets/main/images/no-image.png",
@@ -76,5 +86,15 @@
     "homepage": "",
     "html_url": "",
     "category": ["Client"]
+  },
+  {
+    "id": 9,
+    "name": "HOPE (Helping Oppressed People Everywhere)",
+    "description": "It was an aggregated Web platform that enabled multiple not-for-profit organizations (NGO), to list their mission, respective websites and help develop awareness among needy people",
+    "image": "https://raw.githubusercontent.com/dhruvinhp/web-assets/main/images/no-image.png",
+    "topics": ["HTML", "CSS", "JS", "PHP"],
+    "homepage": "",
+    "html_url": "",
+    "category": ["Other"]
   }
 ]

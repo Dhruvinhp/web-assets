@@ -50,7 +50,7 @@
   {
     "id": 5,
     "name": "The Diamond Port - Whitelable",
-    "description": "",
+    "description": "Whitelable is an online platform designed to showcase a diverse range of diamonds. It offers users the ability to effectively filter and refine their search based on specific criteria. The site is dynamically integrated with an API, ensuring real-time updates and accurate information. Key features of the platform include advanced filtering options, allowing users to narrow down their search based on factors such as diamond shape, carat weight, price, and color. Additionally, users have the opportunity to access comprehensive details of each diamond on dedicated detail pages, providing them with a comprehensive understanding of the product.",
     "image": "https://raw.githubusercontent.com/dhruvinhp/web-assets/main/images/whitelable.png",
     "topics": ["Reactjs", "Axios", "MUI"],
     "homepage": "https://thediamondp6.sg-host.com/14726697641660979893",

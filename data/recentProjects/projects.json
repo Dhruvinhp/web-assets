@@ -101,7 +101,7 @@
     "id": 10,
     "name": "Portfolio",
     "description": "The portfolio website is a sleek and professional platform that presents personal information, contact details, and recent projects. Developed with NextJS and Tailwind, it showcases projects and designs effectively. The website incorporates scroll animations (AoS), a Glide JS carousel, and responsive layouts. It includes a themes switch (light and dark mode) using next-themes and utilizes Incremental Static Regeneration (ISR) for optimal performance. With dynamic web functionality through API integration, the portfolio website offers a concise overview of skills and expertise.",
-    "image": "https://raw.githubusercontent.com/dhruvinhp/web-assets/main/images/no-image.png",
+    "image": "https://raw.githubusercontent.com/dhruvinhp/web-assets/main/images/portfolio.png",
     "topics": ["NextJS", "TailwindCSS"],
     "homepage": "https://dhruvinhp.vercel.app/",
     "html_url": "",

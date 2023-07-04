@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Costa Coffee",
-    "description": "Brigo project is a state-of-the-art automated coffee machine (Invested by Cocacola) to provide the client customizable, gourmet coffee on the go and on demand.Human - Free machine uses freshly ground Costa Coffee beans, fresh dairy, and gourmet syrups to deliver quality, consistency, and convenience through a mobile app with touchless ordering and pick-up.",
+    "description": "Briggo project is a state-of-the-art automated coffee machine (Invested by Cocacola) to provide the client customizable, gourmet coffee on the go and on demand.Human - Free machine uses freshly ground Costa Coffee beans, fresh dairy, and gourmet syrups to deliver quality, consistency, and convenience through a mobile app with touchless ordering and pick-up.",
     "image": "https://raw.githubusercontent.com/dhruvinhp/web-assets/main/images/costaCoffee.png",
     "topics": [
       "Reactjs",

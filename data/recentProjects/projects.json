@@ -19,6 +19,23 @@
   },
   {
     "id": 2,
+    "name": "AVA (Ad Valorem Advisors)",
+    "description": "Ad Valorem Advisors is a full-service property tax advisory firm. Responsible for a range of critical tasks related to building responsive user interfaces, integrating APIs/Websocket - Cognito Auth,. These responsibilities are crucial to ensuring reliable, user-friendly development that meets the needs of client.",
+    "image": "https://raw.githubusercontent.com/dhruvinhp/web-assets/main/images/AVA.png",
+    "topics": [
+      "Reactjs",
+      "TypeScript",
+      "Material UI",
+      "WebSocket",
+      "AWS Cognito",
+      "S3"
+    ],
+    "homepage": "https://main.d2t21wsvb3n8j3.amplifyapp.com/",
+    "html_url": "",
+    "category": ["Client"]
+  },
+  {
+    "id": 3,
     "name": "Test Mojo - Hierarchical roles based Assessment Platform",
     "description": "Designed and implemented schema for a broader Exam assessment solution and some of its key features. The project aims to provide a comprehensive assessment solution for Educators like Universities, online portals, LMS/ Teachers to evaluate students/professionals on multiple criteria like skill-based MCQ, coding, and descriptive questions. It was designed to generate reports and analytics",
     "image": "https://raw.githubusercontent.com/dhruvinhp/web-assets/main/images/testmojo.png",
@@ -28,7 +45,7 @@
     "category": ["Client"]
   },
   {
-    "id": 3,
+    "id": 4,
     "name": "Cloud based Community Management Platform",
     "description": "Platform is managing multiple communities (Sanghs) under one common digital platform (Mobile and Web Application) with multiple hierarchy and role-based authorities. It enables the management of members’ profiles and increases collaboration across members and trustees and bring a number of features for paperless management including various facilities and member events.",
     "image": "https://raw.githubusercontent.com/dhruvinhp/web-assets/main/images/jainsangh.png",
@@ -38,7 +55,7 @@
     "category": ["Client"]
   },
   {
-    "id": 4,
+    "id": 5,
     "name": "Fanimal: Ticket purchasing platform",
     "description": "Fanimal is the cheapest place on the Internet for ticket of liver concerts and events. with zero hidden fees. Motto is “price you see is the price you pay”. Their social group purchase feature makes planning with friends easy. First, start group and set a minimum size. Next, invite friends, who join by buying their tickets. If group doesn’t hit the minimum in time then nobody is charged! Plus, all group members earn account credit as more people join. Worked on updating the platform with new features like dashboard summarization and data analysis, API for payment logic for group features.",
     "image": "https://raw.githubusercontent.com/dhruvinhp/web-assets/main/images/fanimal.png",
@@ -48,7 +65,7 @@
     "category": ["Client"]
   },
   {
-    "id": 5,
+    "id": 6,
     "name": "The Diamond Port - Whitelable",
     "description": "Whitelable is an online platform designed to showcase a diverse range of diamonds. It offers users the ability to effectively filter and refine their search based on specific criteria. The site is dynamically integrated with an API, ensuring real-time updates and accurate information. Key features of the platform include advanced filtering options, allowing users to narrow down their search based on factors such as diamond shape, carat weight, price, and color. Additionally, users have the opportunity to access comprehensive details of each diamond on dedicated detail pages, providing them with a comprehensive understanding of the product.",
     "image": "https://raw.githubusercontent.com/dhruvinhp/web-assets/main/images/whitelable.png",
@@ -58,7 +75,7 @@
     "category": ["Client"]
   },
   {
-    "id": 6,
+    "id": 7,
     "name": "One Charge",
     "description": "Onecharge is a Complete EV charging infrastructure solution from Greenpill Group. Website was designed in reactjs to share details about the best electric vehicle (EV) charging experience.",
     "image": "https://raw.githubusercontent.com/dhruvinhp/web-assets/main/images/oneCharge.png",
@@ -68,7 +85,7 @@
     "category": ["Client"]
   },
   {
-    "id": 7,
+    "id": 8,
     "name": "Garage Mania (Car Part Selling Web Application)",
     "description": "Developed a fully functional webapp, where user can buy and sell car parts on this platform. Admin can manage Buyer and seller accounts and each seller have control over listing of specific product lines along with images, description, pricing etc. Platform enable buyer to connect with sellers through various mechanisms including email.",
     "image": "https://raw.githubusercontent.com/dhruvinhp/web-assets/main/images/garageMania.png",
@@ -78,7 +95,7 @@
     "category": ["Personal"]
   },
   {
-    "id": 8,
+    "id": 9,
     "name": "GST Data Reconciliation",
     "description": "Instrumental role in developing the Financial Utility with Python that processes a) GST data from Indian Govt Tax portal sites and b) Accounting Invoice data from popular accounting software Tally. The objective is to automate the reconciliation processes and highlight the anomalies between the data files.",
     "image": "https://raw.githubusercontent.com/dhruvinhp/web-assets/main/images/no-image.png",
@@ -88,7 +105,7 @@
     "category": ["Client"]
   },
   {
-    "id": 9,
+    "id": 10,
     "name": "HOPE (Helping Oppressed People Everywhere)",
     "description": "It was an aggregated Web platform that enabled multiple not-for-profit organizations (NGO), to list their mission, respective websites and help develop awareness among needy people",
     "image": "https://raw.githubusercontent.com/dhruvinhp/web-assets/main/images/no-image.png",
@@ -98,7 +115,7 @@
     "category": ["Other"]
   },
   {
-    "id": 10,
+    "id": 11,
     "name": "Portfolio",
     "description": "The portfolio website is a sleek and professional platform that presents personal information, contact details, and recent projects. Developed with NextJS and Tailwind, it showcases projects and designs effectively. The website incorporates scroll animations (AoS), and responsive layouts. It includes a themes switch (light and dark mode) using next-themes and utilizes Incremental Static Regeneration (ISR) for optimal performance. With dynamic web functionality through API integration, the portfolio website offers a concise overview of skills and expertise.",
     "image": "https://raw.githubusercontent.com/dhruvinhp/web-assets/main/images/portfolio.png",
